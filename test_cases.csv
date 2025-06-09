@@ -1,0 +1,3 @@
+Test Case ID,Feature,Scenario,Steps,Expected Result,Actual Result,Status
+TC01,Search,Search crop price by name,Enter 'Wheat' and click search,Wheat prices displayed,Correct data shown,Pass
+TC02,Filter,Filter by location,Select 'Punjab',Show relevant prices,Incorrect data shown,Fail
